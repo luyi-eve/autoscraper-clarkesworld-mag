@@ -1,0 +1,2 @@
+# autoscraper-clarkesworld-mag
+ 
